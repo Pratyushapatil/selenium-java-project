@@ -1,14 +1,9 @@
 package TestProject.SeleniumFrameworkTestProject;
 
 import java.io.IOException;
-import java.util.List;
-
-import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import SeleniumFrameworkTestProjectPageobeject.CartPage;
-import SeleniumFrameworkTestProjectPageobeject.ProductCatalog;
 import SeleniumFrameworkTestProjectTestComponents.BaseTest;
 
 
